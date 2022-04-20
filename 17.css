@@ -7,7 +7,7 @@
 }
 #header
 {
-    /* height: 100vh; */
+    
     background-image: url("img/background.png");
     background-position: center;
     background-size: cover;
@@ -86,7 +86,7 @@ p
 #nav
 {
     width: 250px;
-    /* height: 100vh; */
+    height: 100vh; 
     position: fixed;
     right: -250px;
     top: 0;
